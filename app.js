@@ -113,13 +113,13 @@ $(".case").click(function() {
  }
 }); 
 
-// $(".clear").click(function() {
-// 	$(".case").html("");
-// 	// joueur1 = prompt("Joueur 1:");
-// 	// $(".one").html(joueur1);
-// 	// joueur2 = prompt("Joueur 2:");
-// 	// $(".two").html(joueur2);
-// 	count = 0;
-// 	array = ["0", "0", "0", "0", "0", "0", "0", "0", "0"];
-// });
+$(".clear").click(function() {
+	$(".case").html("");
+	// joueur1 = prompt("Joueur 1:");
+	// $(".one").html(joueur1);
+	// joueur2 = prompt("Joueur 2:");
+	// $(".two").html(joueur2);
+	count = 0;
+	array = ["0", "0", "0", "0", "0", "0", "0", "0", "0"];
+});
 
